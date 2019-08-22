@@ -14,6 +14,10 @@ https://modelifun.fr.gd/
 
 Utilisation du template : https://html5up.net/dimension
 
-Et voici le résultat final:
+Et voici le résultat final: https://modelifun.netlify.com
+
+![40% center](images/Modelifunew01.jpg)
+
+![40% center](images/Modelifunew02.jpg)
 
 
