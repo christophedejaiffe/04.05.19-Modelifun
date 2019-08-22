@@ -10,7 +10,7 @@ Mon choix c'est porté sur le site de mon club de voiture télécommandée :
 
 https://modelifun.fr.gd/
 
-![40% center](Modelifun.jpg)
+![40% center](images/Modelifun.jpg)
 
 Utilisation du template : https://html5up.net/dimension
 
